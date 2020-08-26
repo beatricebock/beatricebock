@@ -1,12 +1,12 @@
 ### Hi there, I'm Beatrice 👋
 
 ## 🔭 I’m currently working on ...
-- Webflow templates like [this one](simple-app-feature.webflow.io)
+- Webflow templates like [this one](https://simple-app-feature.webflow.io)
 
 ## 🌱 I’m currently learning ...
 - React
 - Ruby on Rails
-- UI Design ([LearnUI.Design](learnui.design) is a treasure)
+- UI Design ([LearnUI.Design](https://learnui.design) is a treasure)
 
 ## 💬 Ask me about ...
 - Writing resumes/cover letters for People in Tech
