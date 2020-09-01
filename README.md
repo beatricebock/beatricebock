@@ -1,7 +1,7 @@
 ### Hi there, I'm Beatrice 👋
 
 ## 🔭 I’m currently working on ...
-- My [StyleStage](https://stylestage.dev) entry
+- My [StyleStage](https://github.com/beatricebock/stylestage) entry
 - Webflow templates like [this one](https://simple-app-feature.webflow.io)
 
 ## 🌱 I’m currently learning ...
