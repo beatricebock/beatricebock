@@ -1,20 +1,18 @@
 ### Hi there, I'm Beatrice 👋
 
 ## 🔭 I’m currently working on ...
-- My [StyleStage](https://github.com/beatricebock/stylestage) entry
-- Webflow templates like [this one](https://simple-app-feature.webflow.io)
+- Being a product manager at LottieFiles for the Web and Plugins teams
 
 ## 🌱 I’m currently learning ...
-- React
-- Ruby on Rails
-- UI Design ([LearnUI.Design](https://learnui.design) is a treasure)
+- Product management for SAAS products
 
 ## 💬 Ask me about ...
 - Writing resumes/cover letters for People in Tech
 - Behavioural/Situational interview tips
+- Salary negotiation
 
 ## 🤔 I’m looking for help with ...
-- Fully distributed remote teams looking for a frontend developer
+- Fully distributed remote teams looking for a product manager
 - Great project-based React courses/tutorials
 
 <!--
@@ -27,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- My [StyleStage](https://github.com/beatricebock/stylestage) entry
+- Webflow templates like [this one](https://simple-app-feature.webflow.io)
 -->
